@@ -1,0 +1,9 @@
+Mark Steward (@marksteward) on github has contributed to the initial version of this code. I have edited out the unwanted stuff and presented only the bare minimum pritest.py
+For more information, 
+http://radicalvision.wordpress.com/2011/09/08/how-to-read-an-energy-meter-using-android-device-phone-or-tablet/
+
+Install Python and Pyserial library for 'import serial' to work.
+Do the connections according to the information given on my blog above.
+Check out where your usb-serial device has mounted. Eg. in Linux it might mount to /dev/ttyUSB0 
+or anywhere from COM1 to COM32 in Windows
+Run this file.
